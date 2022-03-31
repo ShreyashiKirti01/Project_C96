@@ -1,0 +1,66 @@
+body{
+background: url("istockphoto-1217093906-170667a.jpg");
+background-repeat: no-repeat;
+background-size:cover;
+}
+
+.header{
+    font-family: 'Comforter', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Praise', cursive;
+font-size: 60px;
+color: rgb(33, 202, 146);
+
+}
+
+#send_msg{
+background:linear-gradient(rgb(221, 73, 73) 40%, rgb(201, 102, 102) 60%, rgb(231, 192, 192) 80%, white 100%);
+font-size: 20px;
+font-family: 'Comforter', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Praise', cursive;
+font-size: 30px;
+}
+
+#send_msg input{
+width: 90%;
+height: 30px;
+border-style: dashed;
+font-family: 'Comforter', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Praise', cursive;
+font-size: 30px;
+}
+
+#send_msg button{
+background-color: rgb(107, 228, 107);
+color: rgb(0, 0, 0);
+width: 30%;
+height: 40px;
+font-family: 'Comforter', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Praise', cursive;
+font-size: 20px;
+border-style: groove;
+}
+
+output{
+background:linear-gradient(rgb(85, 13, 85) 60%, white 100%);
+}
+
+#logout{
+float: right;
+background-color: azure;
+border-radius: 5px;
+width: 135px;
+height: 70px;
+
+}
